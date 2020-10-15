@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding=" ISO-8859-1"?>
+<livre>
+    <titre>MY BOOK</titre>
+    <auteurs>
+        <auteur>
+            <nom>loudhaif</nom>
+            <prenom>Oumaima</prenom>
+        </auteur>
+        <auteur>
+            <nom>oumaima1/nom>
+            <prenom>loudhaif1</prenom>
+        </auteur>
+    </auteurs>
+    <sections>
+        <section>
+            <titre> First Section </titre>
+            <chapitres>
+                <chapitre>
+                    <titre>first Chapitre </titre>
+                    <paragraphes>
+                        <paragraphe>paragraphe</paragraphe>
+                        <paragraphe>paragraphe1</paragraphe>
+                    </paragraphes>
+                </chapitre>
+                <chapitre>
+                    <titre>Second Chapitre </titre>
+                    <paragraphes>
+                        <paragraphe>paragraphe</paragraphe>
+                        <paragraphe>paragraphe1</paragraphe>
+                    </paragraphes>
+                </chapitre>
+            </chapitres>
+        </section>
+        <section>
+            <titre>Second Section</titre>
+            <chapitres>
+                <chapitre>
+                    <titre>First Chapitre </titre>
+                    <paragraphes>
+                        <paragraphe>paragraphe</paragraphe>
+                        <paragraphe>paragraphe1</paragraphe>
+                    </paragraphes>
+                </chapitre>
+                <chapitre>
+                    <titre>Second Chapitre </titre>
+                    <paragraphes>
+                        <paragraphe>paragraphe</paragraphe>
+                        <paragraphe>paragraphe1</paragraphe>
+                    </paragraphes>
+                </chapitre>
+            </chapitres>
+        </section>
+    </sections>
+</livre>
