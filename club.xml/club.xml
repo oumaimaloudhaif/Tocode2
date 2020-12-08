@@ -1,0 +1,9 @@
+<Club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" clubId="ACM" xsi:noNamespaceSchemaLocation="club.xsd">
+<Member id="_12345" clubs="ACM">
+<Name>
+<FirstName>WEB</FirstName>
+<MiddleInitial>H</MiddleInitial>
+<LastName>DO</LastName>
+</Name>
+</Member>
+</Club>
